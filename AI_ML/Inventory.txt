@@ -1,0 +1,4 @@
+1,KitKat,45,100
+2,Dairy Milk,25,200
+3,Nestle Bar,30,150
+4,Epsellium Bar,23,90
